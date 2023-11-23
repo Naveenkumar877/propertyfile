@@ -1,0 +1,8 @@
+api:
+   host=9090 
+   userName=naveen test from config server
+   password=i dont know default profile from config server
+   list.value=one,two,three,four,configserver
+
+env:
+    myAppName:myshopping
